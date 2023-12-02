@@ -14,4 +14,4 @@ This Java-based Inventory Billing System is designed to manage inventory, proces
 
 ## Here is the DEMO VIDEO
 
-https://github.com/Shivani-Sharma-23/Inventory_Billing_System-using_java/blob/main/demo.mp4
+[Watch the demo video](demo.mp4)
