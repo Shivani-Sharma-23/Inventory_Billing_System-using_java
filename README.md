@@ -14,4 +14,4 @@ This Java-based Inventory Billing System is designed to manage inventory, proces
 
 ## Here is the DEMO VIDEO
 
-[Watch the demo video](demo.mp4)
+https://www.youtube.com/watch?v=GfWS-oxI-P8&ab_channel=ShivaniSharma
