@@ -12,6 +12,3 @@ This Java-based Inventory Billing System is designed to manage inventory, proces
 - Generate billing reports for ordered items.
 - Connect to a MySQL database for persistent data storage.
 
-## Here is the DEMO VIDEO
-
-https://www.youtube.com/watch?v=GfWS-oxI-P8&ab_channel=ShivaniSharma
